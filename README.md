@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="/Users/it/mine/Advanced-BigData/picture/README_TITLE.png">
+    <img src="https://github.com/BruceWong96/Advanced-BigData/blob/main/picture/README_TITLE.png">
 </div>
