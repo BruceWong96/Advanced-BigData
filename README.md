@@ -79,3 +79,17 @@
 <br />
 <br />
 
+### 书籍与面试
+<br />
+<table>
+    <tr>
+        <th><img width="50px" src="picture/icon/书籍.png"></th>
+        <th><img width="50px" src="picture/icon/面试.png"></th>
+    </tr>
+    <tr>
+        <td align="center"><a href="#">书籍</a></td>
+        <td align="center"><a href="#">面试</a></td>
+    </tr>
+</table>
+<br />
+<br />
