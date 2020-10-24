@@ -28,4 +28,31 @@
         <td align="center"><a href="#">操作系统</a></td>
         <td align="center"><a href="#">计算机网络</a></td>
     </tr>
-</table>    
+</table>
+
+<hr >
+
+<table>
+    <tr>
+        <th><img width="50px" src="picture/icon/Hadoop.png"></th>
+        <th><img width="50px" src="picture/icon/Hive.png"></th>
+        <th><img width="50px" src="picture/icon/Hbase.png"></th>
+        <th><img width="50px" src="picture/icon/Flume.png"></th>
+        <th><img width="50px" src="picture/icon/Sqoop.png"></th>
+        <th><img width="50px" src="picture/icon/Kafka.png"></th>
+        <th><img width="50px" src="picture/icon/Zookeeper.png"></th>
+        <th><img width="50px" src="picture/icon/Spark.png"></th>
+        <th><img width="50px" src="picture/icon/Flink.png"></th>
+    </tr>
+    <tr>
+        <td align="center"><a href="#">Hadoop</a></td>
+        <td align="center"><a href="#">Hive</a></td>
+        <td align="center"><a href="#">Hbase</a></td>
+        <td align="center"><a href="#">Flume</a></td>
+        <td align="center"><a href="#">Sqoop</a></td>
+        <td align="center"><a href="#">Kafka</a></td>
+        <td align="center"><a href="#">Zookeeper</a></td>
+        <td align="center"><a href="#">Spark</a></td>
+        <td align="center"><a href="#">Flink</a></td>
+    </tr>
+</table>
