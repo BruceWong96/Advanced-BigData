@@ -10,14 +10,14 @@
 <br />
 <table>
     <tr>
-        <th><img width="50px" src="picture/icon/Bash.png"></th>
-        <th><img width="50px" src="picture/icon/Java.png"></th>
-        <th><img width="50px" src="picture/icon/Scala.png"></th>
-        <th><img width="50px" src="picture/icon/Python.png"></th>
-        <th><img width="50px" src="picture/icon/数据库.png"></th>
-        <th><img width="50px" src="picture/icon/Linux.png"></th>
-        <th><img width="50px" src="picture/icon/操作系统.png"></th>
-        <th><img width="50px" src="picture/icon/计算机网络.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Bash.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Java.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Scala.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Python.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/数据库.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Linux.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/操作系统.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/计算机网络.png"></th>
     </tr>
     <tr>
         <td align="center"><a href="#">Bash</a></td>
@@ -37,15 +37,15 @@
 <br />
 <table>
     <tr>
-        <th><img width="50px" src="picture/icon/Hadoop.png"></th>
-        <th><img width="50px" src="picture/icon/Hive.png"></th>
-        <th><img width="50px" src="picture/icon/Hbase.png"></th>
-        <th><img width="50px" src="picture/icon/Flume.png"></th>
-        <th><img width="50px" src="picture/icon/Sqoop.png"></th>
-        <th><img width="50px" src="picture/icon/Kafka.png"></th>
-        <th><img width="50px" src="picture/icon/Zookeeper.png"></th>
-        <th><img width="50px" src="picture/icon/Spark.png"></th>
-        <th><img width="50px" src="picture/icon/Flink.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Hadoop.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Hive.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Hbase.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Flume.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Sqoop.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Kafka.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Zookeeper.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Spark.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Flink.png"></th>
     </tr>
     <tr>
         <td align="center"><a href="#">Hadoop</a></td>
@@ -66,9 +66,9 @@
 <br />
 <table>
     <tr>
-        <th><img width="50px" src="picture/icon/算法.png"></th>
-        <th><img width="50px" src="picture/icon/数据结构.png"></th>
-        <th><img width="50px" src="picture/icon/Leetcode.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/算法.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/数据结构.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/Leetcode.png"></th>
     </tr>
     <tr>
         <td align="center"><a href="#">算法</a></td>
@@ -83,8 +83,8 @@
 <br />
 <table>
     <tr>
-        <th><img width="50px" src="picture/icon/书籍.png"></th>
-        <th><img width="50px" src="picture/icon/面试.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/书籍.png"></th>
+        <th align="center"><img width="50px" src="picture/icon/面试.png"></th>
     </tr>
     <tr>
         <td align="center"><a href="#">书籍</a></td>
