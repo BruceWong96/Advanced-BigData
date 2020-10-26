@@ -109,7 +109,8 @@
 我按照学习的顺序设计了目录，点击每个图标下方的链接会自动跳转到这个单元的 Overview ，也方便小伙伴们各取所需。
 如有对 github 网络支持不好的朋友（例如图片加载不出来，这不是仓库失效了而是网络问题），可以点击下方链接跳转到 gitee 下的同步仓库，只要这个仓库更新，同步仓库也会更新，内容一模一样。
 
-[请点击这里跳转到同步仓库 Advanced-BigData](https://gitee.com/brucewong96/Advanced-BigData)
+[请点击这里跳转到 Gitee 仓库 Advanced-BigData](https://gitee.com/brucewong96/Advanced-BigData)
+[请点击这里跳转到 Github 仓库 Advanced-BigData](https://github.com/BruceWong96/Advanced-BigData)
 <br />
 <br />
 ### 请求与期望
