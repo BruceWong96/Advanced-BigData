@@ -1,9 +1,0 @@
-//机器 host
-172.24.101.213 meta03.liulishuocluster.sensorsdata.cloud meta03
-172.24.101.214 meta02.liulishuocluster.sensorsdata.cloud meta02
-172.24.101.215 data04.liulishuocluster.sensorsdata.cloud data04
-172.24.101.216 data05.liulishuocluster.sensorsdata.cloud data05
-172.24.101.217 data02.liulishuocluster.sensorsdata.cloud data02
-172.24.101.218 meta01.liulishuocluster.sensorsdata.cloud meta01
-172.24.101.219 data03.liulishuocluster.sensorsdata.cloud data03
-172.24.101.220 data01.liulishuocluster.sensorsdata.cloud data01
