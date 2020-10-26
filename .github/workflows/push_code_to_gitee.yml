@@ -1,0 +1,19 @@
+name: CI
+on: push
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - name: Mirror the Github repos to Gitee
+      uses: BruceWong96/hub-mirror-action@v0.10
+      with: 
+        src: github/BruceWong96
+        dst: gitee/brucewong96
+        dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+        dst_token:  ${{ secrets.GITEE_TOKEN }}
+        white_list: 'Advanced-BigData,WriteCode'
+        force_update: true
+        debug: true
