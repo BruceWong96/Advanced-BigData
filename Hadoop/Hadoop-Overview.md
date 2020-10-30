@@ -30,5 +30,4 @@ Hadoop可运行于一般的商用服务器上，具有高容错、高可靠性�
 
 ## 目录
 
-- [Hadoop-HDFS](Doc/a-Hadoop-HDFS.md)
-    - [Hadoop-HDFS-写文件](Doc/b-Hadoop-HDFS-写文件.md)
+- [Hadoop-万字详解HDFS](Doc/a-万字详解HDFS.md)
